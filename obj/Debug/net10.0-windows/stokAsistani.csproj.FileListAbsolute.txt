@@ -1,0 +1,78 @@
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.anaForm.resources
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.loginForm.resources
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.Properties.Resources.resources
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.satisForm.resources
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.stokForm.resources
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.csproj.GenerateResource.cache
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.AssemblyInfoInputs.cache
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.AssemblyInfo.cs
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.csproj.CoreCompileInputs.cache
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\stokAsistani.exe
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\stokAsistani.deps.json
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\stokAsistani.runtimeconfig.json
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\stokAsistani.dll
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\stokAsistani.pdb
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.dll
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\refint\stokAsistani.dll
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.pdb
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.genruntimeconfig.cache
+C:\Users\atilla\Desktop\proje görsel\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\ref\stokAsistani.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.anaForm.resources
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.loginForm.resources
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.Properties.Resources.resources
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.satisForm.resources
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.stokForm.resources
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.csproj.GenerateResource.cache
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.AssemblyInfoInputs.cache
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.AssemblyInfo.cs
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.csproj.CoreCompileInputs.cache
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\refint\stokAsistani.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.pdb
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\stokAsistani.exe
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\stokAsistani.deps.json
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\stokAsistani.runtimeconfig.json
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\stokAsistani.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\stokAsistani.pdb
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.genruntimeconfig.cache
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\ref\stokAsistani.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsistani.csproj.AssemblyReference.cache
+C:\Users\atilla\Desktop\proje\stokAsistanı\stokAsistanı\obj\Debug\net10.0-windows\stokAsis.9684475E.Up2Date
