@@ -116,6 +116,7 @@ namespace stokAsistani
             btnCikis.Text = "Çıkış Yap";
             btnCikis.TextImageRelation = TextImageRelation.ImageBeforeText;
             btnCikis.UseVisualStyleBackColor = false;
+            btnCikis.Click += btnCikis_Click_1;
             // 
             // btnSatis
             // 
@@ -210,6 +211,7 @@ namespace stokAsistani
             pictureboxWhatsapp.SizeMode = PictureBoxSizeMode.Zoom;
             pictureboxWhatsapp.TabIndex = 11;
             pictureboxWhatsapp.TabStop = false;
+            pictureboxWhatsapp.Click += pictureboxWhatsapp_Click_1;
             // 
             // timer1
             // 

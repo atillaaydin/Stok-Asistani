@@ -61,21 +61,7 @@ namespace stokAsistani
             Dashboard();
         }
 
-        private void btnCikis_Click(object sender, EventArgs e)
-        {
-            DialogResult cevap;
 
-            cevap = MessageBox.Show(
-                "Çıkış yapmak istediğinize emin misiniz?",
-                "Çıkış",
-                MessageBoxButtons.YesNo,
-                MessageBoxIcon.Question);
-
-            if (cevap == DialogResult.Yes)
-            {
-                Application.Exit();
-            }
-        }
 
         private void btnSatis_Click(object sender, EventArgs e)
         {
@@ -92,15 +78,7 @@ namespace stokAsistani
         {
 
         }
-        private void pictureBoxWhatsapp_Click(object sender, EventArgs e)
-        {
-            Process.Start(new ProcessStartInfo
-            {
-                FileName = "https://wa.me/905365289769",
-                UseShellExecute = true
-            });
 
-        }
 
         private void label1_Click_1(object sender, EventArgs e)
         {
@@ -159,6 +137,32 @@ namespace stokAsistani
             satis.ShowDialog();
 
             Dashboard();
+        }
+
+        private void btnCikis_Click_1(object sender, EventArgs e)
+        {
+            DialogResult cevap;
+
+            cevap = MessageBox.Show(
+                "Çıkış yapmak istediğinize emin misiniz?",
+                "Çıkış",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question);
+
+            if (cevap == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+
+        private void pictureboxWhatsapp_Click_1(object sender, EventArgs e)
+        {
+            Process.Start(new ProcessStartInfo
+            {
+                FileName = "https://wa.me/905365289769",
+                UseShellExecute = true
+            });
+
         }
     }
 }
